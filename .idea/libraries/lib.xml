@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/2020newtarget/WEB-INF/lib/servlet-api-3.0.pre4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/2020newtarget/WEB-INF/lib/jetty-7.0.0.pre5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/2020newtarget/WEB-INF/lib/jetty-util-7.0.0.pre5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
